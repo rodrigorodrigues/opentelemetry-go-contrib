@@ -6,6 +6,8 @@
 
 This reopsitory hosts instrumentations of the following [OpenTelemetry](https://opentelemetry.io/) libraries:
 
+Updated Kafka version 2.3.0
+
 * [confluentinc/confluent-kafka-go](https://github.com/confluentinc/confluent-kafka-go)
 
 
