@@ -1,4 +1,4 @@
-module github.com/etf1/opentelemetry-go-contrib/instrumentation/github.com/confluentinc/confluent-kafka-go/otelconfluent
+module github.com/rodrigorodrigues/opentelemetry-go-contrib/instrumentation/github.com/confluentinc/confluent-kafka-go/otelconfluent
 
 go 1.17
 

@@ -21,8 +21,8 @@ import (
 	"log"
 
 	"github.com/confluentinc/confluent-kafka-go/v2/kafka"
-	"github.com/etf1/opentelemetry-go-contrib/instrumentation/github.com/confluentinc/confluent-kafka-go/otelconfluent"
-	"github.com/etf1/opentelemetry-go-contrib/instrumentation/github.com/confluentinc/confluent-kafka-go/otelconfluent/example"
+	"github.com/rodrigorodrigues/opentelemetry-go-contrib/instrumentation/github.com/confluentinc/confluent-kafka-go/otelconfluent"
+	"github.com/rodrigorodrigues/opentelemetry-go-contrib/instrumentation/github.com/confluentinc/confluent-kafka-go/otelconfluent/example"
 )
 
 var (

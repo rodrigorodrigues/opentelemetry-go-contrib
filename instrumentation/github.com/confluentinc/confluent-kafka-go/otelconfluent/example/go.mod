@@ -1,12 +1,12 @@
-module github.com/etf1/opentelemetry-go-contrib/instrumentation/github.com/confluentinc/confluent-kafka-go/otelconfluent/example
+module github.com/rodrigorodrigues/opentelemetry-go-contrib/instrumentation/github.com/confluentinc/confluent-kafka-go/otelconfluent/example
 
 go 1.17
 
-replace github.com/etf1/opentelemetry-go-contrib/instrumentation/github.com/confluentinc/confluent-kafka-go/otelconfluent => ../
+replace github.com/rodrigorodrigues/opentelemetry-go-contrib/instrumentation/github.com/confluentinc/confluent-kafka-go/otelconfluent => ../
 
 require (
 	github.com/confluentinc/confluent-kafka-go v1.7.0
-	github.com/etf1/opentelemetry-go-contrib/instrumentation/github.com/confluentinc/confluent-kafka-go/otelconfluent v0.0.0-00010101000000-000000000000
+	github.com/rodrigorodrigues/opentelemetry-go-contrib/instrumentation/github.com/confluentinc/confluent-kafka-go/otelconfluent v0.0.0-00010101000000-000000000000
 	go.opentelemetry.io/otel v1.3.0
 	go.opentelemetry.io/otel/exporters/stdout/stdouttrace v1.0.1
 	go.opentelemetry.io/otel/sdk v1.0.1
